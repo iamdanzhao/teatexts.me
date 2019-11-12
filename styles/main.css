@@ -28,6 +28,10 @@ h1 {
     margin-bottom: 1em;
 }
 
+h1 + h1 {
+    margin-top: -0.5em;
+}
+
 ul {
     list-style: none;
     margin-left: -2.5em;
