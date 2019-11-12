@@ -16,6 +16,10 @@ img {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
 h1 {
     font-family: 'Oswald';
     font-weight: 400;
