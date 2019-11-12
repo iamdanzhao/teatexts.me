@@ -1,0 +1,38 @@
+html {
+    font-family: 'Fira Sans', 'Segoe UI', sans-serif;
+    padding: 0;
+    margin: 0;
+    line-height: 1.85em;
+}
+
+main {
+    max-width: 480px;
+    padding: 1.5em 3em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header img {
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 300%;
+    margin-bottom: 1em;
+}
+
+ul {
+    list-style: none;
+    margin-left: -2.5em;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.small {
+    font-size: 90%;
+    line-height: 1.5em;
+}
